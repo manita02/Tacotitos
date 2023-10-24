@@ -1,6 +1,6 @@
-
+<h1 align="center">Tacotito’s Food Truck</h1>
 <section align="center">
-  <h1 align="center">Tacotito’s Food Truck</h1>
+  
   <a href="https://www.mentta.com/blog/origen-de-los-tacos-mexicanos/" target="_blank"><img src="https://i.ibb.co/WHRGpcz/foodtruck.jpg" alt="Tacos_Info"></a>
   
    <img src="https://img.shields.io/badge/STATE-FINISHED-green" alt="Estado del Proyecto">
