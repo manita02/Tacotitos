@@ -83,7 +83,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 - Si en Description sale 'This problem was resolved', el problema fue resuelto con éxito:heavy_check_mark:.
 
    ### :ballot_box_with_check: `Configurar ConexionDb.java`:nut_and_bolt:
-   - Desplegar los archivos del proyecto y buscar la clase ConexionBD.java que esta en la carpeta Controlador:accessibility:
+   - Desplegar los archivos del proyecto y buscar la clase ConexionBD.java que esta en la carpeta Controlador :accessibility:
    - En la variable dbName hay que poner el nombre de la base de datos creada anteriormente :link:
    - En la variable usuario hay que poner el nombre de usuario con el que se conectará a la BD. Si tenemos un usuario con diferente nombre al de root, modificarlo y escribir el nombre que corresponda:bangbang: 
    - Si tenemos una <a href="https://www.mclibre.org/consultar/webapps/lecciones/phpmyadmin-1-soluciones.html" target="_blank"> contraseña para nuestro usuario </a> hay que escribirla en la variable clave:small_red_triangle_down:. Si es que NO tenemos contraseña hay que escribir lo siguiente:
