@@ -62,8 +62,8 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
        <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/XAMPP_Windows_10.PNG" alt="Servidores activos">
   </section>
 - Abrir phpMyAdmin presionando<a href="https://www.youtube.com/watch?v=giCmjKBmK6A" target="_blank"> el boton Admin </a>en el servidor MySQL desde XAMPP :bulb: 
-- <a href="https://disenowebakus.net/crear-una-base-de-datos-phpmyadmin-mysql-php.php" target="_blank"> Crear la base de datos, ponerle un nombre. :warning:IMPORTANTE NO AGREGARLE TABLAS A LA BD, tiene que estar VACÍA:warning: </a> 
-- <a href="https://help.one.com/hc/es/articles/115005588189--C%C3%B3mo-importar-una-base-de-datos-a-phpMyAdmin-" target="_blank"> Importar el archivo finalpoo_tacotitos.sql (que se encuentra en el repositorio) para que se creen las tablas :triangular_flag_on_post:</a> 
+- <a href="https://disenowebakus.net/crear-una-base-de-datos-phpmyadmin-mysql-php.php" target="_blank"> Crear la base de datos, ponerle un nombre. </a>:warning: IMPORTANTE NO AGREGARLE TABLAS A LA BD, tiene que estar VACÍA :warning:  
+- <a href="https://help.one.com/hc/es/articles/115005588189--C%C3%B3mo-importar-una-base-de-datos-a-phpMyAdmin-" target="_blank"> Importar el archivo finalpoo_tacotitos.sql </a>(que se encuentra en el repositorio) para que se creen las tablas :triangular_flag_on_post: 
 
 ### :white_check_mark: `Abrir Proyecto`:open_file_folder:
 - Copiar la carpeta TacotitosMVC (que se encuentra en el repositorio) en Documentos dentro de la carpeta NetBeansProjects:high_brightness:: 
@@ -71,7 +71,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
     C:\Users\pepe05\Documents\NetBeansProjects
     ```
 - Ejecutar Apache NetBeans IDE
-- <a href="https://www.youtube.com/watch?v=pqvPri4enR4" target="_blank"> Abrir proyecto :point_right: buscarlo dentro de Documentos :point_right: NetBeansProjects :file_folder:</a> 
+- <a href="https://www.youtube.com/watch?v=pqvPri4enR4" target="_blank"> Abrir proyecto </a>:point_right: buscarlo dentro de Documentos :point_right: NetBeansProjects :file_folder: 
 - Si aparece el TacotitosMVC con un simbolo de advertencia hay que resolver problemas :point_right: Click derecho al icono del proyecto☕ :point_right: Resolve Projects Problems :point_right: luego apretar boton resolve
   <section align="center">
        <img src="https://i.ibb.co/RcBp1MK/resolve.jpg" alt="Resolve projects problems">
