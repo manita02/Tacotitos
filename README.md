@@ -11,14 +11,14 @@
 # Índice
 - [Sobre Tacotito’s :truck:](#sobre-tacotitos-truck)
 
-- [Programas necesarios :memo:](#white_check_mark-programas-necesarios-memo)
+- [Programas necesarios :memo:](#white_check_mark-programas-necesariosmemo)
 
 - [Descargar proyecto ⚙️](#white_check_mark-descargar-proyecto-⚙️)
    
 - [Crear Base de Datos 🔧](#white_check_mark-crear-base-de-datos-🔧)
 
 
-- [Abrir Proyecto :open_file_folder:](#white_check_mark-abrir-proyecto-open_file_folder)
+- [Abrir Proyecto :open_file_folder:](#white_check_mark-abrir-proyectoopen_file_folder)
     - [Configurar ConexionDb.java 📦](#white_check_mark-configurar-conexiondbjava-📦)
     - [Ejecutar el proyecto 🚀](#white_check_mark-ejecutar-el-proyecto-🚀)
 
