@@ -9,9 +9,9 @@
 
 
 # Índice
-- [Sobre Tacotito’s :truck:](#sobre-tacotitos-:truck:)
+- [Sobre Tacotito’s :truck:](#sobre-tacotitos-truck)
 
-- [Programas necesarios :memo:](#white_check_mark-programas-necesarios-:memo:)
+- [Programas necesarios :memo:](#white_check_mark-programas-necesarios-memo)
 
 - [Descargar proyecto ⚙️](#white_check_mark-descargar-proyecto-⚙️)
    
