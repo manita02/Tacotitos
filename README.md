@@ -62,7 +62,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
        <img src="https://upload.wikimedia.org/wikipedia/commons/d/de/XAMPP_Windows_10.PNG" alt="Servidores activos">
   </section>
 - Abrir phpMyAdmin presionando<a href="https://www.youtube.com/watch?v=giCmjKBmK6A" target="_blank"> el boton Admin </a>en el servidor MySQL desde XAMPP :bulb: 
-- <a href="https://disenowebakus.net/crear-una-base-de-datos-phpmyadmin-mysql-php.php" target="_blank"> Crear la base de datos, ponerle un nombre. </a>:warning: IMPORTANTE NO AGREGARLE TABLAS A LA BD, tiene que estar VACÍA :warning:  
+- <a href="https://disenowebakus.net/crear-una-base-de-datos-phpmyadmin-mysql-php.php" target="_blank"> Crear la base de datos, ponerle un nombre.</a> :warning: IMPORTANTE NO AGREGARLE TABLAS A LA BD, tiene que estar VACÍA :warning:  
 - <a href="https://help.one.com/hc/es/articles/115005588189--C%C3%B3mo-importar-una-base-de-datos-a-phpMyAdmin-" target="_blank"> Importar el archivo finalpoo_tacotitos.sql </a>(que se encuentra en el repositorio) para que se creen las tablas :triangular_flag_on_post: 
 
 ### :white_check_mark: `Abrir Proyecto`:open_file_folder:
@@ -72,7 +72,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
     ```
 - Ejecutar Apache NetBeans IDE
 - <a href="https://www.youtube.com/watch?v=pqvPri4enR4" target="_blank"> Abrir proyecto </a>:point_right: buscarlo dentro de Documentos :point_right: NetBeansProjects :file_folder: 
-- Si aparece el TacotitosMVC con un simbolo de advertencia hay que resolver problemas :point_right: Click derecho al icono del proyecto☕ :point_right: Resolve Projects Problems :point_right: luego apretar boton resolve
+- Si aparece el TacotitosMVC con un simbolo de advertencia :warning: hay que resolver problemas :point_right: Click derecho al ícono del proyecto☕ :point_right: Resolve Projects Problems :point_right: luego apretar boton Resolve...
   <section align="center">
        <img src="https://i.ibb.co/RcBp1MK/resolve.jpg" alt="Resolve projects problems">
   </section>
@@ -84,9 +84,9 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 
    ### :ballot_box_with_check: `Configurar ConexionDb.java`:nut_and_bolt:
    - Desplegar los archivos del proyecto y buscar la clase ConexionBD.java que esta en la carpeta Controlador:accessibility:
-   - En la variable dbName hay que poner el nombre de la base de datos creada anteriormente
+   - En la variable dbName hay que poner el nombre de la base de datos creada anteriormente :link:
    - En la variable usuario hay que poner el nombre de usuario con el que se conectará a la BD. Si tenemos un usuario con diferente nombre al de root, modificarlo y escribir el nombre que corresponda:bangbang: 
-   - Si tenemos una <a href="https://www.mclibre.org/consultar/webapps/lecciones/phpmyadmin-1-soluciones.html" target="_blank"> contraseña para nuestro usuario </a> hay que escribirla en la variable clave:small_red_triangle_down:. Sino tenemos contraseña hay que escribir lo siguiente:
+   - Si tenemos una <a href="https://www.mclibre.org/consultar/webapps/lecciones/phpmyadmin-1-soluciones.html" target="_blank"> contraseña para nuestro usuario </a> hay que escribirla en la variable clave:small_red_triangle_down:. Si es que NO tenemos contraseña hay que escribir lo siguiente:
      ```bash
      String clave = "";
      ```
@@ -95,7 +95,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
      </section>
 
     ### :ballot_box_with_check: `Ejecutar el proyecto`:rocket:
-    - Hacer click derecho al icono del proyecto☕ :point_right: Run
+    - Hacer click derecho al ícono del proyecto☕ :point_right: Run
     <section align="center">
        <img src="https://i.ibb.co/vqpN0qR/run-Project.jpg" alt="runProject">
     </section>
