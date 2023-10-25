@@ -1,4 +1,3 @@
-
 <section align="center">
   <h1 align="center">🌮Tacotito’s Food Truck🌮</h1>
   <a href="https://www.mentta.com/blog/origen-de-los-tacos-mexicanos/" target="_blank"><img src="https://i.ibb.co/WHRGpcz/foodtruck.jpg" alt="Tacos_Info"></a>
@@ -10,23 +9,13 @@
 
 # Índice
 - [Sobre Tacotito’s :truck:](#sobre-tacotitos-truck)
-
 - [Programas necesarios :memo:](#white_check_mark-programas-necesariosmemo)
-
-- [Descargar proyecto :inbox_tray:](#white_check_mark-descargar-proyectoinbox_tray)
-   
+- [Descargar proyecto :inbox_tray:](#white_check_mark-descargar-proyectoinbox_tray) 
 - [Crear Base de Datos :wrench:](#white_check_mark-crear-base-de-datoswrench)
-
-
 - [Abrir Proyecto :open_file_folder:](#white_check_mark-abrir-proyectoopen_file_folder)
     - [Configurar ConexionDb.java :nut_and_bolt:](#ballot_box_with_check-configurar-conexiondbjavanut_and_bolt)
     - [Ejecutar el proyecto :rocket:](#ballot_box_with_check-ejecutar-el-proyectorocket)
-
-
-
-
 - [Tecnologías utilizadas :hammer:](#tecnologías-utilizadas-hammer)
-
 - [Autor :black_nib:](#autor-black_nib)
 
 
@@ -41,6 +30,10 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 ### :white_check_mark: `Programas necesarios`:memo:
 - Descargar e Instalar :arrow_down_small: 
   - Aprende a instalar Netbeans completamente :point_right: [8-minute tutorial ⏱️](https://www.youtube.com/watch?v=MXHsvSvJpHI)! 
+  <a href="https://nodejs.org/es/download" target="_blank"> 
+        Node.js
+    </a>
+
   - <a href="https://www.oracle.com/ar/java/technologies/downloads/" target="_blank"> 
         Java JDK
     </a>    
