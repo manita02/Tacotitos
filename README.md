@@ -30,12 +30,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 ### :white_check_mark: `Programas necesarios`:memo:
 - Descargar e Instalar :arrow_down_small: 
   - Aprende a instalar Netbeans completamente :point_right: [8-minute tutorial ⏱️](https://www.youtube.com/watch?v=MXHsvSvJpHI)! 
-    - <a href="https://visualstudio.microsoft.com/es/downloads/" target="_blank"> 
-        Visual Studio Community
-    </a>
-
-
-  - <a href="https://www.oracle.com/ar/java/technologies/downloads/" target="_blank"> 
+  - <a href="https://www.oracle.com/ar/java/technologies/downloads/"> 
         Java JDK
     </a>    
   - <a href="https://netbeans.apache.org/" target="_blank"> 
