@@ -13,21 +13,21 @@
 
 - [Programas necesarios :memo:](#white_check_mark-programas-necesariosmemo)
 
-- [Descargar proyecto ⚙️](#white_check_mark-descargar-proyecto-⚙️)
+- [Descargar proyecto :inbox_tray:](#white_check_mark-descargar-proyectoinbox_tray)
    
-- [Crear Base de Datos 🔧](#white_check_mark-crear-base-de-datos-🔧)
+- [Crear Base de Datos :wrench:](#white_check_mark-crear-base-de-datoswrench)
 
 
 - [Abrir Proyecto :open_file_folder:](#white_check_mark-abrir-proyectoopen_file_folder)
-    - [Configurar ConexionDb.java 📦](#white_check_mark-configurar-conexiondbjava-📦)
-    - [Ejecutar el proyecto 🚀](#white_check_mark-ejecutar-el-proyecto-🚀)
+    - [Configurar ConexionDb.java :nut_and_bolt:](#white_check_mark-configurar-conexiondbjavanut_and_bolt)
+    - [Ejecutar el proyecto :rocket:](#white_check_mark-ejecutar-el-proyectorocket)
 
 
 
 
-- [Tecnologías utilizadas 🛠️](#tecnologías-utilizadas-🛠️)
+- [Tecnologías utilizadas :hammer:](#tecnologías-utilizadas-hammer)
 
-- [Autor ✒️](#autor-✒️)
+- [Autor :black_nib:](#autor-black_nib)
 
 
 ## Sobre Tacotito’s :truck:
@@ -51,11 +51,11 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
         XAMPP
     </a> 
 
-### :white_check_mark: `Descargar proyecto ⚙️`
+### :white_check_mark: `Descargar proyecto`:inbox_tray:
 - <a href="https://github.com/manita02/Tacotitos" target="_blank"> Repositorio (Tacotito’s Food Truck) en GitHub </a>
 - <a href="https://docs.github.com/es/repositories/working-with-files/using-files/downloading-source-code-archives" target="_blank"> Hacer click en <>Code y luego Download ZIP </a>
 
-### :white_check_mark: `Crear Base de Datos 🔧` 
+### :white_check_mark: `Crear Base de Datos`:wrench: 
 - Ejecutar XAMPP
 - Iniciar los servidores Apache y MySQL
   <section align="center">
@@ -82,7 +82,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
   </section>
 - Si en Description sale 'This problem was resolved', el problema fue resuelto con éxito.
 
-   ### :white_check_mark: `Configurar ConexionDb.java 📦`
+   ### :white_check_mark: `Configurar ConexionDb.java`:nut_and_bolt:
    - Desplegar los archivos del proyecto y buscar la clase ConexionBD.java que esta en la carpeta Controlador
    - En la variable dbName hay que poner el nombre de la base de datos creada anteriormente
    - En la variable usuario hay que poner el nombre de usuario con el que se conectará a la BD. Si tenemos un usuario con diferente nombre al de root, modificarlo y escribir el nombre que corresponda. 
@@ -94,14 +94,14 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
        <img src="https://i.ibb.co/gjgQMZg/conexion-BD.jpg" alt="conexionBD">
      </section>
 
-    ### :white_check_mark: `Ejecutar el proyecto 🚀`
+    ### :white_check_mark: `Ejecutar el proyecto`:rocket:
     - Hacer click derecho al icono del proyecto☕ --> Run
     <section align="center">
        <img src="https://i.ibb.co/vqpN0qR/run-Project.jpg" alt="runProject">
     </section>
    
    
-## Tecnologías utilizadas 🛠️
+## Tecnologías utilizadas :hammer:
 <section align="center">
 <a href="https://www.java.com/es/download/help/whatis_java.html#:~:text=Java%20es%20una%20plataforma%20inform%C3%A1tica,crean%20muchos%20servicios%20y%20aplicaciones." target="_blank"> <img src="https://www.sommelierdecafe.com/wp-content/uploads/2009/06/java-logo1-1.png" alt="java" width="70" height="120"/> </a> 🔩
 <a href="https://www.ionos.es/digitalguide/servidores/know-how/que-es-mysql/#:~:text=MySQL%20es%20un%20sistema%20de,por%20ejemplo%2C%20WordPress%20y%20TYPO3." target="_blank"> <img class="img" src="https://styles.redditmedia.com/t5_2qm6k/styles/communityIcon_dhjr6guc03x51.png" alt="mysql" width="120" height="120"/> </a> 🔩
@@ -111,6 +111,6 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 
 
 
-## Autor ✒️
+## Autor :black_nib:
 | [<img src="https://img.freepik.com/vector-premium/logotipo-playa-isla-tropical-ilustracion-insignia-surf-vintage_194708-664.jpg" width=115><br><sub>Ana Lucia Juarez</sub>](https://github.com/manita02) | 
 | :---: |
