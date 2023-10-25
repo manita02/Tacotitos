@@ -38,7 +38,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 
 
 
-### :white_check_mark: `Programas necesarios :memo:`
+### :white_check_mark: `Programas necesarios`:memo:
 - Descargar e Instalar :arrow_down_small: 
   - Aprende a instalar Netbeans completamente :point_right: [8-minute tutorial ⏱️](https://www.youtube.com/watch?v=MXHsvSvJpHI)! 
   - <a href="https://www.oracle.com/ar/java/technologies/downloads/" target="_blank"> 
@@ -65,7 +65,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 - <a href="https://disenowebakus.net/crear-una-base-de-datos-phpmyadmin-mysql-php.php" target="_blank"> Crear la base de datos, ponerle un nombre. IMPORTANTE NO AGREGARLE TABLAS A LA BD, tiene que estar VACÍA </a> 
 - <a href="https://help.one.com/hc/es/articles/115005588189--C%C3%B3mo-importar-una-base-de-datos-a-phpMyAdmin-" target="_blank"> Importar el archivo finalpoo_tacotitos.sql (que se encuentra en el repositorio) para que se creen las tablas </a> 
 
-### :white_check_mark: `Abrir Proyecto :open_file_folder:`
+### :white_check_mark: `Abrir Proyecto`:open_file_folder:
 - Copiar la carpeta TacotitosMVC (que se encuentra en el repositorio) en Documentos dentro de la carpeta NetBeansProjects: 
     ```
     C:\Users\pepe05\Documents\NetBeansProjects
