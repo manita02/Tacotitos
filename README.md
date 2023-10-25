@@ -9,9 +9,9 @@
 
 
 # Índice
-- [Sobre Tacotito’s 🌮🚚](#sobre-tacotitos-🌮🚚)
+- [Sobre Tacotito’s :truck:](#sobre-tacotitos-:truck:)
 
-- [Programas necesarios 📋](#white_check_mark-programas-necesarios-📋)
+- [Programas necesarios :memo:](#white_check_mark-programas-necesarios-:memo:)
 
 - [Descargar proyecto ⚙️](#white_check_mark-descargar-proyecto-⚙️)
    
@@ -30,7 +30,7 @@
 - [Autor ✒️](#autor-✒️)
 
 
-## Sobre Tacotito’s 🌮🚚
+## Sobre Tacotito’s :truck:
 
 <p align="justify">
 Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que permite el ABM (Alta, Baja, Modificación), de tacos y de todos los productos que lo componen. A su vez, determina el valor total de un taco generado entre otras funcionalidades (construido con JAVA y MYSQL).
@@ -38,7 +38,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 
 
 
-### :white_check_mark: `Programas necesarios 📋`
+### :white_check_mark: `Programas necesarios :memo:`
 - Descargar e Instalar :arrow_down_small: 
   - Aprende a instalar Netbeans completamente :point_right: [8-minute tutorial ⏱️](https://www.youtube.com/watch?v=MXHsvSvJpHI)! 
   - <a href="https://www.oracle.com/ar/java/technologies/downloads/" target="_blank"> 
