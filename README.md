@@ -42,6 +42,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 
 ### :white_check_mark: `Descargar proyecto`:inbox_tray:
 - <a href="https://github.com/manita02/Tacotitos" target="_blank"> Repositorio (🌮Tacotito’s Food Truck🌮) en GitHub </a>
+- [Descargar proyecto](https://github.com/manita02/Tacotitos/archive/refs/heads/main.zip)
 - <a href="https://docs.github.com/es/repositories/working-with-files/using-files/downloading-source-code-archives" target="_blank"> Hacer click en <>Code y luego Download ZIP :dash:</a>
 
 ### :white_check_mark: `Crear Base de Datos`:wrench: 
