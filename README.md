@@ -16,7 +16,7 @@
     - [Configurar ConexionBD.java :nut_and_bolt:](#ballot_box_with_check-configurar-conexionbdjavanut_and_bolt)
     - [Ejecutar el proyecto :rocket:](#ballot_box_with_check-ejecutar-el-proyectorocket)
 - [Tecnologías utilizadas :hammer:](#tecnologías-utilizadas-hammer)
-- [Desarrollador :black_nib:](#desarrollador-black_nib)
+- [Autor :black_nib:](#autor-black_nib)
 
 
 ## Sobre Tacotito’s :truck:
@@ -101,6 +101,6 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 
 
 
-## Desarrollador :black_nib:
+## Autor :black_nib:
 | [<img src="https://img.freepik.com/vector-premium/logotipo-playa-isla-tropical-ilustracion-insignia-surf-vintage_194708-664.jpg" width=115><br><sub>Ana Lucia Juarez</sub>](https://github.com/manita02) | 
 | :---: |
