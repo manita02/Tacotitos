@@ -13,7 +13,7 @@
 - [Descargar proyecto :inbox_tray:](#white_check_mark-descargar-proyectoinbox_tray) 
 - [Crear Base de Datos :wrench:](#white_check_mark-crear-base-de-datoswrench)
 - [Abrir Proyecto :open_file_folder:](#white_check_mark-abrir-proyectoopen_file_folder)
-    - [Configurar ConexionBd.java :nut_and_bolt:](#ballot_box_with_check-configurar-conexionbdjavanut_and_bolt)
+    - [Configurar ConexionBD.java :nut_and_bolt:](#ballot_box_with_check-configurar-conexionbdjavanut_and_bolt)
     - [Ejecutar el proyecto :rocket:](#ballot_box_with_check-ejecutar-el-proyectorocket)
 - [Tecnologías utilizadas :hammer:](#tecnologías-utilizadas-hammer)
 - [Desarrollador :black_nib:](#desarrollador-black_nib)
@@ -72,8 +72,8 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
   </section>
 - Si en Description sale 'This problem was resolved', el problema fue resuelto con éxito:heavy_check_mark:.
 
-   ### :ballot_box_with_check: `Configurar ConexionBd.java`:nut_and_bolt:
-   - Desplegar los archivos del proyecto y buscar la clase ConexionBd.java que esta en la carpeta Controlador :accessibility:
+   ### :ballot_box_with_check: `Configurar ConexionBD.java`:nut_and_bolt:
+   - Desplegar los archivos del proyecto y buscar la clase ConexionBD.java que esta en la carpeta Controlador :accessibility:
    - En la variable dbName hay que poner el nombre de la base de datos creada anteriormente :link:
    - En la variable usuario hay que poner el nombre de usuario con el que se conectará a la BD. Si tenemos un usuario con diferente nombre al de root, modificarlo y escribir el nombre que corresponda:bangbang: 
    - Si tenemos una <a href="https://www.mclibre.org/consultar/webapps/lecciones/phpmyadmin-1-soluciones.html" target="_blank"> contraseña para nuestro usuario </a> hay que escribirla en la variable clave:small_red_triangle_down:. Si es que NO tenemos contraseña hay que escribir lo siguiente:
