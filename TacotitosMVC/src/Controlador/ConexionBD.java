@@ -20,7 +20,7 @@ public class ConexionBD {
     String dbName = "finalPOO_tacotitos";
     String url = "jdbc:mysql://localhost:3306/" + dbName + "?allowPublicKeyRetrieval=true&useSSL=false&serverTimezone=UTC"; // Url de base de datos
     String usuario = "root";
-    String clave = "43906838";
+    String clave = "";
 
     public Connection ConectarBaseDatos() throws SQLException {
         try {
