@@ -56,7 +56,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
 - <a href="https://help.one.com/hc/es/articles/115005588189--C%C3%B3mo-importar-una-base-de-datos-a-phpMyAdmin-" target="_blank"> Importar el archivo finalpoo_tacotitos.sql </a>(que se encuentra en el repositorio) para que se creen las tablas :triangular_flag_on_post: 
 
 ### :white_check_mark: `Abrir Proyecto`:open_file_folder:
-- Copiar la carpeta TacotitosMVC (que se encuentra en el repositorio) en Documentos dentro de la carpeta NetBeansProjects:high_brightness:: 
+- Copiar la carpeta TacotitosMVC (que se encuentra en el repositorio) en Documentos dentro de la carpeta NetBeansProjects:high_brightness:
     ```
     C:\Users\pepe05\Documents\NetBeansProjects
     ```
