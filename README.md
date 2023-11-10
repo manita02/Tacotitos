@@ -81,7 +81,7 @@ Es un sistema realizado según el patrón MVC (Modelo, Vista, Controlador) que p
      String clave = "";
      ```
      <section align="center">
-       <img src="https://i.ibb.co/gjgQMZg/conexion-BD.jpg" alt="conexionBD">
+       <img src="http://imgfz.com/i/dl78e9W.jpeg" alt="conexionBD">
      </section>
 
     ### :ballot_box_with_check: `Ejecutar el proyecto`:rocket:
